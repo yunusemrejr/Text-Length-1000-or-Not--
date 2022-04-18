@@ -1,0 +1,4 @@
+C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\cppNET\x64\Debug\cppNET.vcxproj.AssemblyReference.cache
+C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\cppNET\x64\Debug\cppNET.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\cppNET\x64\Debug\cppNET.MainForm.resources
+C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\cppNET\x64\Debug\cppNET.vcxproj.GenerateResource.cache

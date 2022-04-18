@@ -1,0 +1,5 @@
+﻿  MainForm.cpp
+C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\cppNET\MainForm.h(210,10): warning C4101: 'output': unreferenced local variable
+C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\cppNET\MainForm.cpp(4,33): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MainForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  cppNET.vcxproj -> C:\Users\yunus\Desktop\Programming\my projects\uncompleted\C++ Game\cppNET\x64\Debug\cppNET.exe
